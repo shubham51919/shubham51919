@@ -2,7 +2,8 @@
 <p align="left"> 
 As an experienced Frontend Developer, I’m now transitioning into a Full Stack Developer role. My deep expertise in HTML, CSS, JavaScript, and React, coupled with my passion for coding, drives me to constantly expand my knowledge. With a strong foundation in building user-focused frontend applications, I’m now diving into backend technologies to round out my skill set. I’m dedicated to documenting my journey as I develop full-stack projects and grow into a well-rounded developer.
 <span align="left"> 
-![](https://komarev.com/ghpvc/?username=shubham51919&color=018610)
+  <img src="https://komarev.com/ghpvc/?username=esmaaksoy&label=Profile%20views&color=FED794&style=for-the-badge" alt="esmaaksoy" /> 
+
 
 ## ***Connect with me***
 [![Linkedin](https://img.shields.io/badge/linkedin-%018610.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham51919/)
